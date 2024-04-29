@@ -460,7 +460,7 @@ AudioSource:
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: 9b6f6f81c93bc6e4dacefcbc487e80c3, type: 3}
   m_PlayOnAwake: 0
-  m_Volume: 0.279
+  m_Volume: 0.18
   m_Pitch: 1.6
   Loop: 0
   Mute: 0
@@ -682,7 +682,7 @@ AudioSource:
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: 24c9db4d6dd964f48bf533b932ba03e4, type: 3}
   m_PlayOnAwake: 0
-  m_Volume: 1
+  m_Volume: 0.359
   m_Pitch: 1
   Loop: 0
   Mute: 0
@@ -842,11 +842,43 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 432958, guid: 0f3c7f1cc0b91f349b51f7d4ec7a7408, type: 3}
       propertyPath: m_LocalEulerAnglesHint.y
-      value: 5
+      value: 359
       objectReference: {fileID: 0}
     - target: {fileID: 432958, guid: 0f3c7f1cc0b91f349b51f7d4ec7a7408, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: -5
+      objectReference: {fileID: 0}
+    - target: {fileID: 437844, guid: 0f3c7f1cc0b91f349b51f7d4ec7a7408, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.115837514
+      objectReference: {fileID: 0}
+    - target: {fileID: 437844, guid: 0f3c7f1cc0b91f349b51f7d4ec7a7408, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.015168189
+      objectReference: {fileID: 0}
+    - target: {fileID: 437844, guid: 0f3c7f1cc0b91f349b51f7d4ec7a7408, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.0000000027939677
+      objectReference: {fileID: 0}
+    - target: {fileID: 437844, guid: 0f3c7f1cc0b91f349b51f7d4ec7a7408, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.98044324
+      objectReference: {fileID: 0}
+    - target: {fileID: 437844, guid: 0f3c7f1cc0b91f349b51f7d4ec7a7408, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -1.2050654e-17
+      objectReference: {fileID: 0}
+    - target: {fileID: 437844, guid: 0f3c7f1cc0b91f349b51f7d4ec7a7408, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.000000007450581
+      objectReference: {fileID: 0}
+    - target: {fileID: 437844, guid: 0f3c7f1cc0b91f349b51f7d4ec7a7408, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.19680211
+      objectReference: {fileID: 0}
+    - target: {fileID: 437844, guid: 0f3c7f1cc0b91f349b51f7d4ec7a7408, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 22.7
       objectReference: {fileID: 0}
     - target: {fileID: 447024, guid: 0f3c7f1cc0b91f349b51f7d4ec7a7408, type: 3}
       propertyPath: m_RootOrder
@@ -979,6 +1011,8 @@ PlayableDirector:
     value: {fileID: 1326719700}
   - key: {fileID: -1434615582866190921, guid: 3d7a6a98a27324c4cbb5fe50a9275a3c, type: 2}
     value: {fileID: 2102675418}
+  - key: {fileID: -2649709597746631062, guid: 3d7a6a98a27324c4cbb5fe50a9275a3c, type: 2}
+    value: {fileID: 349921805}
   m_ExposedReferences:
     m_References: []
 --- !u!1 &788425864 stripped
@@ -1265,7 +1299,7 @@ AudioSource:
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: 436260768da0c9d4a90e1c2629fae5c1, type: 3}
   m_PlayOnAwake: 0
-  m_Volume: 1
+  m_Volume: 0.289
   m_Pitch: 1
   Loop: 0
   Mute: 0
@@ -1393,7 +1427,7 @@ AudioSource:
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: 560dd7358c8e71143a1770024d81b3e0, type: 3}
   m_PlayOnAwake: 1
-  m_Volume: 1
+  m_Volume: 0.204
   m_Pitch: 1
   Loop: 0
   Mute: 0
